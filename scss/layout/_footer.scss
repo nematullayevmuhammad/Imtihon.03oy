@@ -1,0 +1,55 @@
+.footer {
+  background-color: $ligth-black-color;
+}
+.footer-container {
+}
+.container {
+}
+.contact {
+  background-image: url("../../images/contact-oval.png");
+  background-repeat: no-repeat;
+  background-position: center left -200px  ;
+  p {
+    margin-bottom: 201px;
+  }
+}
+.contact-container {
+}
+.content {
+}
+.contact__input {
+}
+.contact__one {
+}
+.contact__hr {
+}
+
+.footer {
+  background-color: $ligth-black-color;
+}
+
+.footer__container {
+  padding-top: 84px;
+}
+
+.footer__icon {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5.1rem;
+  padding-bottom: 95px;
+}
+
+.last__footer {
+  font-family: "Space Grotesk";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1;
+  text-align: left;
+}
+.footer__nav {
+}
+
+.ul__list {
+  display: flex;
+  gap: 32px;
+}

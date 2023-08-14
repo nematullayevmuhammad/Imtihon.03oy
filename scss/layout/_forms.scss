@@ -1,0 +1,20 @@
+input {
+  width: 100%;
+  max-width: 405px;
+  padding-left: 24px;
+  background-color: $ligth-black-color;
+  padding-bottom: 17px;
+  margin-bottom: 12px;
+  border: 0;
+  border-bottom: 1px solid $white-color;
+  font-size: 16px;
+  color: $white-color;
+}
+
+#massage {
+  padding: 0 30px 80px 25px;
+}
+
+form {
+  flex-direction: column;
+}

@@ -1,0 +1,30 @@
+.header {
+  margin-top: 40px;
+
+  background-repeat: no-repeat;
+  margin-bottom: 73px;
+}
+.header_contaienr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-logo {
+}
+.site-logo__img {
+  margin-bottom: 62px;
+}
+.sitenav {
+}
+.sitenav__list {
+  display: flex;
+  gap: 32px;
+}
+.sitenav__item {
+}
+.sitenav__link {
+}
+
+@media screen and (max-width:900px) {
+
+}

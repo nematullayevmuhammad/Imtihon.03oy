@@ -1,0 +1,53 @@
+.contact {
+  // padding-bottom: 140px;
+  padding-top: 84px;
+  // padding-bottom: 50px;
+  background-color: $ligth-black-color;
+  padding-bottom: 50px;
+  h2 {
+    font-weight: 700;
+    font-size: 88px;
+    margin-bottom: 36px;
+  }
+
+  p {
+    width: 445px;
+    font-weight: 700;
+    font-size: 18px;
+  }
+}
+.contact-container {
+  display: flex;
+  // background-image: url("../../images/contact-oval.png");
+  background-repeat: no-repeat;
+  background-position: bottom -40px left -50px;
+}
+.container {
+}
+.content {
+  margin-right: 220px;
+}
+
+.contact__one {
+  justify-content: space-between;
+  a {
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 288px;
+    color: $white-black-color;
+    &:hover {
+      color: $ligth-green-color;
+    }
+  }
+}
+
+.contact__hr {
+  width: 118px;
+  height: 2px;
+  border-color: $ligth-green-color;
+  background: $ligth-green-color;
+  // border: none;
+  margin-left: 287px;
+  //   margin-top: 32px;
+}
